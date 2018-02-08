@@ -14,7 +14,7 @@ __Panel Discussion__ [Statistics in the data science curriculum](https://github.
 
 Experiences with big data analytics in the clinic and the classroom at Harvey Mudd College Talk by Weiqing Gu
 
-__Panel Discussion__ [Computer Science in the data science curriculum](https://github.com/mdogucu/Liberal-Arts-Data-Science/blob/master/Panels/CS%20-%20moderator.pdf) moderated by Gary Kalmanovich. Panelists: [Jessen Havill](https://github.com/mdogucu/Liberal-Arts-Data-Science/blob/master/Panels/Havill.pdf), [Dennis F.X. Mathaisel](https://github.com/mdogucu/Liberal-Arts-Data-Science/blob/master/Panels/Mathaisel.pdf), [Julie Medero](https://github.com/mdogucu/Liberal-Arts-Data-Science/blob/master/Panels/Medero.pdf), [Imad Rahal](https://github.com/mdogucu/Liberal-Arts-Data-Science/blob/master/Panels/Rahal.pdf)
+__Panel Discussion__ [Computer Science in the data science curriculum](https://github.com/mdogucu/Liberal-Arts-Data-Science/blob/master/Panels/CS%20-%20moderator.pdf) moderated by Gary Kalmanovich. Panelists: [Jessen Havill](https://github.com/mdogucu/Liberal-Arts-Data-Science/blob/master/Panels/Havill.pdf), [Dennis F.X. Mathaisel](https://github.com/mdogucu/Liberal-Arts-Data-Science/blob/master/Talks/Mathaisel.pdf), [Julie Medero](https://github.com/mdogucu/Liberal-Arts-Data-Science/blob/master/Panels/Medero.pdf), [Imad Rahal](https://github.com/mdogucu/Liberal-Arts-Data-Science/blob/master/Panels/Rahal.pdf)
 
 ## Jan 13
 
