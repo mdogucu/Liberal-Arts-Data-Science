@@ -28,7 +28,7 @@ __Panel Discussion__ [Solving other people's problems]() moderated by David Gill
 
 [It may be deep, but is it learning?](https://github.com/mdogucu/Liberal-Arts-Data-Science/blob/master/Talks/Cobb.pdf) Talk by George Cobb
 
-__Panel Discussion__ [Educating data-literate citizens](https://github.com/mdogucu/Liberal-Arts-Data-Science/blob/master/Panels/Data%20Literacy%20-%20moderator.pdf) moderated by Melissa Crow. Panelists: [Vetria Byrd](https://github.com/mdogucu/Liberal-Arts-Data-Science/blob/master/Panels/Byrd.pdf), [Manolis Kaparakis], [Julie Medero](https://github.com/mdogucu/Liberal-Arts-Data-Science/blob/master/Panels/Medero.pdf), [Witmer](https://github.com/mdogucu/Liberal-Arts-Data-Science/blob/master/Panels/Witmer.pdf)
+__Panel Discussion__ [Educating data-literate citizens](https://github.com/mdogucu/Liberal-Arts-Data-Science/blob/master/Panels/Data%20Literacy%20-%20moderator.pdf) moderated by Melissa Crow. Panelists: [Vetria Byrd](https://github.com/mdogucu/Liberal-Arts-Data-Science/blob/master/Panels/Byrd.pdf), Manolis Kaparakis, [Julie Medero](https://github.com/mdogucu/Liberal-Arts-Data-Science/blob/master/Panels/Medero.pdf), [Witmer](https://github.com/mdogucu/Liberal-Arts-Data-Science/blob/master/Panels/Witmer.pdf)
 
 
 
