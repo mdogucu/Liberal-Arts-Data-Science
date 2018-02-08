@@ -8,7 +8,7 @@ This repo contains slides from panels and talks from Liberal Arts Data Science W
 
 [Writing in the introductory statistics course](https://github.com/mdogucu/Liberal-Arts-Data-Science/blob/master/Talks/Boomer.pdf) Talk by KB Boomer
 
-__Panel Discussion__ [Statistics in the data science curriculum](https://github.com/mdogucu/Liberal-Arts-Data-Science/blob/master/Panels/Statistics%20-%20moderator.pdf) moderated by Mine Dogucu. Panelists: [KB Boomer](https://github.com/mdogucu/Liberal-Arts-Data-Science/blob/master/Panels/Coomer.pdf),Richard De Veaux, [Nicholas Horton](https://github.com/mdogucu/Liberal-Arts-Data-Science/blob/master/Panels/Horton.pdf),[Adam Loy](https://github.com/mdogucu/Liberal-Arts-Data-Science/blob/master/Panels/Loy.pdf) 
+__Panel Discussion__ [Statistics in the data science curriculum](https://github.com/mdogucu/Liberal-Arts-Data-Science/blob/master/Panels/Statistics%20-%20moderator.pdf) moderated by Mine Dogucu. Panelists: [KB Boomer](https://github.com/mdogucu/Liberal-Arts-Data-Science/blob/master/Panels/Coomer.pdf), Richard De Veaux, [Nicholas Horton](https://github.com/mdogucu/Liberal-Arts-Data-Science/blob/master/Panels/Horton.pdf), [Adam Loy](https://github.com/mdogucu/Liberal-Arts-Data-Science/blob/master/Panels/Loy.pdf) 
 
 [Projects first in an interdisciplinary data science curriculum](https://github.com/mdogucu/Liberal-Arts-Data-Science/blob/master/Talks/Havill.pdf) by Jessen Havill
 
@@ -22,7 +22,7 @@ __Panel Discussion__ [Computer Science in the data science curriculum](https://g
 
 [Data Science Projects in the Florida Panthers Organization](https://github.com/mdogucu/Liberal-Arts-Data-Science/blob/master/Talks/Macdonald.pdf) Talk by Brian Macdonald
 
-__Panel Discussion__ [Solving other people's problems]() moderated by David Gillman. Panelists: Richard De Veaux, Weiqing Gu, Nicholas Horton, Brian Macdonald(https://github.com/mdogucu/Liberal-Arts-Data-Science/blob/master/Panels/Macdonald.pdf)
+__Panel Discussion__ [Solving other people's problems]() moderated by David Gillman. Panelists: Richard De Veaux, Weiqing Gu, Nicholas Horton, [Brian Macdonald](https://github.com/mdogucu/Liberal-Arts-Data-Science/blob/master/Panels/Macdonald.pdf)
 
 [The role of visualization capacity building in data science](https://github.com/mdogucu/Liberal-Arts-Data-Science/blob/master/Talks/Byrd.pdf) Talk by Vetria Byrd 
 
